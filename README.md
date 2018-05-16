@@ -9,5 +9,5 @@
 
 4. Написать тесты с помощью phpunit.
 
-Удачи, если будут какие-то вопросы, то пишите, kirill@devjs.ru Либо telegram https://t.me/kirillborovkov
+Удачи, если будут какие-то вопросы, то пишите, kirill@devjs.ru
 
